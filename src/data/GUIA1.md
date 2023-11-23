@@ -1,0 +1,5 @@
+- Comenzamos primero con la planificación del proyecto. Vamos a crear una web simple en la que pondremos un apartado para las clases y otro como carta de presentación.
+- En principio no vamos a usar bases de datos pero, como estoy haciendo un curso de Data Science lo más seguro es que en el futuro implemente MySQL por lo que la elección más optima es trabajar con React.js.
+- Comenzamos con lo básico que es instalar react (npm create vite@latest, Nombre del proyecto, React, Javascript) y despues npm install.
+- Creamos carpetas Components, Pages y Data para poder dividir el proyecto en partes y que en el futuro sea mucho mas sencillo implementar cambios.
+- Como la primera parte es el header vamos a comenzar por ahí creando el componente.
